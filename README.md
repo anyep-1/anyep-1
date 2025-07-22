@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Andhika Yudha👋
+
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJwZWhleGZzMjAzOXdsaHpqcGY0anMzYzVycTI2MzU5a3AweDBqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif)
 
 <!--
 **anyep-1/anyep-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
