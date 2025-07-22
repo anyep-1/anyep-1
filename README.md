@@ -44,9 +44,3 @@ Hit me up on
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/snake.svg" alt="Snake animation" />
-
-###
