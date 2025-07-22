@@ -1,41 +1,52 @@
 ## Hi, I'm Andhika Yudha 🤖
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnhtNTNxYW1uYWRrNjd3djR4amQ3bmtjeXUxazBseXlpMjl2aDh2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nQDKSeRlIyfmw/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnhtNTNxYW1uYWRrNjd3djR4amQ3bmtjeXUxazBseXlpMjl2aDh2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nQDKSeRlIyfmw/giphy.gif" width="1000" />
 </p>
 
 ---
 
-### 🌍 About Me
+### 🔮 My Favorite Tools
 
-Hi! I'm **Andhika Yudha**, a Frontend Developer with a strong passion for building modern, responsive, and interactive web applications using technologies like **React**, **Next.Js**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.
+Frontend
 
-I enjoy turning UI designs into clean and functional code, and I'm always looking for ways to improve user experience through thoughtful design and performance optimization.
-
-Currently, I’m also learning **Backend Development** with tools like **Node.js**, **Express**, and **Supabase**, as I work toward becoming a **Full Stack Developer**.
-
-🚀 Open to collaboration and always eager to learn new technologies!
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,html,css,tailwind,flutter,dart,javascript,typescript" />
+  </a>
+</p>
+Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,nodejs,prisma,mysql,supabase,postgres,firebase" />
+  </a>
+</p>
+Other
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws" />
+  </a>
+</p>
 
 ---
 
-### 📫 Reach Me
+### 🔗 Social Media
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/andhikayudha/)
-- 📧 Email: ayudhap335@gmail.com
+Hit me up on  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/an.yep/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andhikayudha/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayudhap335@gmail.com)
 
 ---
 
-<!--
-**anyep-1/anyep-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😶‍🌫️ Enjoy!
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/snake.svg" alt="Snake animation" />
+
+###
