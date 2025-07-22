@@ -1,5 +1,3 @@
-## Hi, I'm Andhika Yudha 🤖
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnhtNTNxYW1uYWRrNjd3djR4amQ3bmtjeXUxazBseXlpMjl2aDh2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nQDKSeRlIyfmw/giphy.gif" width="1000" />
 </p>
@@ -8,15 +6,19 @@
 
 ### 🤖 About Me
 
-Hi! I'm Andhika Yudha, a passionate Frontend Developer from Indonesia with a strong interest in creating intuitive, responsive, and visually engaging user interfaces.
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Andhika+Yudha;Fullstack+Developer" alt="Typing SVG" /> </p>
 
-I enjoy transforming ideas into digital experiences that are both functional and user-friendly. My journey in development started with a love for problem-solving and has grown into a commitment to crafting clean and maintainable code.
+Hi there! 👋
+I'm Andhika Yudha, a Frontend Developer from Indonesia 🇮🇩 with a passion for building intuitive and visually appealing web interfaces.
 
-Currently, I’m expanding my skill set by exploring backend development to better understand the full picture of building complete web applications.
+I enjoy transforming ideas into user-friendly digital experiences and writing clean, maintainable code. My journey began with curiosity and has grown into a full commitment to front-end craftsmanship.
 
-I'm always eager to learn, collaborate, and contribute to meaningful projects that make an impact.
+🔭 Currently, I'm expanding into backend development to become a Fullstack Developer.
 
-Let’s build something great together!
+💬 I love collaborating on meaningful projects, learning new things, and sharing what I discover along the way.
+Let’s connect and build something awesome together!
+
+<br/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=anyep-1&style=for-the-badge&color=blue" alt="Profile Views" /> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-FF69B4?style=for-the-badge" alt="Focus" /> <img src="https://img.shields.io/badge/Status-Available-76B900?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/github/followers/anyep-1?label=Followers&style=for-the-badge" alt="GitHub Followers" /> </p>
 
 ---
 
