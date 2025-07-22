@@ -6,7 +6,7 @@
 
 ### 🤖 About Me
 
-<!-- <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Andhika+Yudha;Fullstack+Developer" alt="Typing SVG" /> </p> -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Andhika+Yudha;Fullstack+Developer" alt="Typing SVG" /> </p>
 
 Hi there! 👋
 I'm Andhika Yudha, a Frontend Developer from Indonesia 🇮🇩 with a passion for building intuitive and visually appealing web interfaces.
@@ -61,9 +61,9 @@ Let’s connect and build something awesome together!
 
 ### 😶‍🌫️ Enjoy!
 
+<img src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
 </picture>
-<img src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/snake.svg" alt="Snake animation" />
