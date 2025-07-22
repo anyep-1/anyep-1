@@ -6,7 +6,7 @@
 
 ### 🤖 About Me
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Andhika+Yudha;Fullstack+Developer" alt="Typing SVG" /> </p>
+<!-- <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+there!+I'm+Andhika+Yudha;Fullstack+Developer" alt="Typing SVG" /> </p> -->
 
 Hi there! 👋
 I'm Andhika Yudha, a Frontend Developer from Indonesia 🇮🇩 with a passion for building intuitive and visually appealing web interfaces.
