@@ -33,7 +33,7 @@ Other
 ### 🔗 Social Media
 
 Hit me up on  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/an.yep/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andhikayudha/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayudhap335@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/an.yep/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andhikayudha/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ayudhap335@gmail.com)
 
 ---
 
@@ -44,3 +44,7 @@ Hit me up on
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://raw.githubusercontent.com/anyep-1/anyep-1/output/snake.svg" alt="Snake animation" />
+
+###
